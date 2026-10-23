@@ -1,0 +1,6 @@
+{
+  "name": "Baseline — Tennis Club & Academy",
+  "description": "RE REP FITNESS CLUB — Open 24 Hours in Kaipuzha, Kerala. Personal training, CrossFit, weight training, kickboxing, yoga, and nutrition consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
